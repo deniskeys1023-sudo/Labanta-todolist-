@@ -69,4 +69,5 @@ router.post('/tasks/:id/delete', requireAuth, async (req, res) => {
 });
 
 //Todo:campo priority
+//Hotfix
 module.exports = router;
